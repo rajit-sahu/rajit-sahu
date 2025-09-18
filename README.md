@@ -22,14 +22,6 @@ I'm a passionate software developer with a keen interest in open source projects
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
 - **Cloud Platforms:** AWS, Google Cloud, Azure
 
-## GitHub Stats
-
-![Rajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajit-sahu&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sahu&layout=compact&theme=radical)
-
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/rajit-sahu/)
